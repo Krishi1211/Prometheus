@@ -21,4 +21,5 @@ model UserSubscription {
   stripeCustomerId        String?
   stripePriceId           String?
   plan                    String?
+  
 }
